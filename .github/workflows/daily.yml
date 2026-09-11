@@ -1,0 +1,46 @@
+name: Daily S&P 500 screen
+
+on:
+  schedule:
+    # 11:15 UTC = 5:15 AM Mountain Daylight Time (4:15 AM MST in winter), Mon-Fri.
+    - cron: "15 11 * * 1-5"
+  workflow_dispatch: {}   # lets you click "Run workflow" to test any time
+
+permissions:
+  contents: write
+
+concurrency:
+  group: daily-screen
+  cancel-in-progress: false
+
+jobs:
+  screen:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run the screen
+        env:
+          STOCKS_WORKERS: "6"
+        run: python engine.py
+
+      - name: Commit results
+        run: |
+          git config user.name "stocks-bot"
+          git config user.email "stocks-bot@users.noreply.github.com"
+          git add data/
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Daily screen $(date -u +%Y-%m-%d)"
+            git push
+          fi
