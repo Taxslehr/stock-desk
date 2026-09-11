@@ -1,0 +1,2 @@
+# One ticker per line. Add any stock you own that is NOT in the S&P 500 so it gets
+# analyzed for the holdings check. Lines starting with # are ignored.
