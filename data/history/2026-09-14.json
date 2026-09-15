@@ -1,0 +1,111 @@
+{
+ "as_of": "2026-09-14",
+ "market": {
+  "regime": "bull",
+  "spy_price": 760.88,
+  "spy_chg_1d": -0.0045,
+  "vix": 17.06
+ },
+ "picks": [
+  {
+   "ticker": "MU",
+   "kind": "long-term",
+   "price": 924.03,
+   "score": 90.6,
+   "setup": null,
+   "entry": null,
+   "stop": null,
+   "target": null
+  },
+  {
+   "ticker": "SNDK",
+   "kind": "long-term",
+   "price": 1551.99,
+   "score": 88.4,
+   "setup": null,
+   "entry": null,
+   "stop": null,
+   "target": null
+  },
+  {
+   "ticker": "FANG",
+   "kind": "long-term",
+   "price": 205.72,
+   "score": 72.0,
+   "setup": null,
+   "entry": null,
+   "stop": null,
+   "target": null
+  },
+  {
+   "ticker": "EOG",
+   "kind": "long-term",
+   "price": 148.54,
+   "score": 70.3,
+   "setup": null,
+   "entry": null,
+   "stop": null,
+   "target": null
+  },
+  {
+   "ticker": "ABBV",
+   "kind": "long-term",
+   "price": 261.77,
+   "score": 70.2,
+   "setup": null,
+   "entry": null,
+   "stop": null,
+   "target": null
+  },
+  {
+   "ticker": "DAL",
+   "kind": "long-term",
+   "price": 79.8,
+   "score": 70.1,
+   "setup": null,
+   "entry": null,
+   "stop": null,
+   "target": null
+  },
+  {
+   "ticker": "COF",
+   "kind": "long-term",
+   "price": 206.68,
+   "score": 69.8,
+   "setup": null,
+   "entry": null,
+   "stop": null,
+   "target": null
+  },
+  {
+   "ticker": "BKNG",
+   "kind": "long-term",
+   "price": 175.35,
+   "score": 69.2,
+   "setup": null,
+   "entry": null,
+   "stop": null,
+   "target": null
+  },
+  {
+   "ticker": "EXPE",
+   "kind": "short-term",
+   "price": 287.86,
+   "score": 72.2,
+   "setup": "pullback",
+   "entry": 287.86,
+   "stop": 261.43,
+   "target": 341.51
+  },
+  {
+   "ticker": "CRWD",
+   "kind": "short-term",
+   "price": 235.38,
+   "score": 54.6,
+   "setup": "breakout",
+   "entry": 235.38,
+   "stop": 226.86,
+   "target": 252.42
+  }
+ ]
+}
