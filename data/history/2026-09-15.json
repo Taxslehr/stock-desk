@@ -1,0 +1,111 @@
+{
+ "as_of": "2026-09-15",
+ "market": {
+  "regime": "bull",
+  "spy_price": 757.39,
+  "spy_chg_1d": -0.0046,
+  "vix": 16.91
+ },
+ "picks": [
+  {
+   "ticker": "MU",
+   "kind": "long-term",
+   "price": 927.6,
+   "score": 90.7,
+   "setup": null,
+   "entry": null,
+   "stop": null,
+   "target": null
+  },
+  {
+   "ticker": "SNDK",
+   "kind": "long-term",
+   "price": 1530.9,
+   "score": 88.4,
+   "setup": null,
+   "entry": null,
+   "stop": null,
+   "target": null
+  },
+  {
+   "ticker": "FANG",
+   "kind": "long-term",
+   "price": 211.53,
+   "score": 71.8,
+   "setup": null,
+   "entry": null,
+   "stop": null,
+   "target": null
+  },
+  {
+   "ticker": "EXPE",
+   "kind": "long-term",
+   "price": 293.08,
+   "score": 71.6,
+   "setup": null,
+   "entry": null,
+   "stop": null,
+   "target": null
+  },
+  {
+   "ticker": "ABBV",
+   "kind": "long-term",
+   "price": 263.04,
+   "score": 70.2,
+   "setup": null,
+   "entry": null,
+   "stop": null,
+   "target": null
+  },
+  {
+   "ticker": "EOG",
+   "kind": "long-term",
+   "price": 153.74,
+   "score": 70.1,
+   "setup": null,
+   "entry": null,
+   "stop": null,
+   "target": null
+  },
+  {
+   "ticker": "COF",
+   "kind": "long-term",
+   "price": 206.85,
+   "score": 69.8,
+   "setup": null,
+   "entry": null,
+   "stop": null,
+   "target": null
+  },
+  {
+   "ticker": "DAL",
+   "kind": "long-term",
+   "price": 78.89,
+   "score": 69.8,
+   "setup": null,
+   "entry": null,
+   "stop": null,
+   "target": null
+  },
+  {
+   "ticker": "ZBRA",
+   "kind": "short-term",
+   "price": 342.73,
+   "score": 68.8,
+   "setup": "pullback",
+   "entry": 342.73,
+   "stop": 325.96,
+   "target": 378.12
+  },
+  {
+   "ticker": "RVTY",
+   "kind": "short-term",
+   "price": 140.19,
+   "score": 50.0,
+   "setup": "breakout",
+   "entry": 140.19,
+   "stop": 131.34,
+   "target": 157.89
+  }
+ ]
+}
