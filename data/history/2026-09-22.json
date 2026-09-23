@@ -1,0 +1,91 @@
+{
+ "as_of": "2026-09-22",
+ "market": {
+  "regime": "unknown",
+  "spy_price": NaN,
+  "spy_chg_1d": null,
+  "vix": 14.18
+ },
+ "picks": [
+  {
+   "ticker": "MU",
+   "kind": "long-term",
+   "price": null,
+   "score": 80.0,
+   "setup": null,
+   "entry": null,
+   "stop": null,
+   "target": null
+  },
+  {
+   "ticker": "SNDK",
+   "kind": "long-term",
+   "price": null,
+   "score": 76.2,
+   "setup": null,
+   "entry": null,
+   "stop": null,
+   "target": null
+  },
+  {
+   "ticker": "FANG",
+   "kind": "long-term",
+   "price": null,
+   "score": 67.6,
+   "setup": null,
+   "entry": null,
+   "stop": null,
+   "target": null
+  },
+  {
+   "ticker": "ALB",
+   "kind": "long-term",
+   "price": null,
+   "score": 66.5,
+   "setup": null,
+   "entry": null,
+   "stop": null,
+   "target": null
+  },
+  {
+   "ticker": "EOG",
+   "kind": "long-term",
+   "price": null,
+   "score": 64.8,
+   "setup": null,
+   "entry": null,
+   "stop": null,
+   "target": null
+  },
+  {
+   "ticker": "EXPE",
+   "kind": "long-term",
+   "price": null,
+   "score": 64.1,
+   "setup": null,
+   "entry": null,
+   "stop": null,
+   "target": null
+  },
+  {
+   "ticker": "ABBV",
+   "kind": "long-term",
+   "price": null,
+   "score": 63.8,
+   "setup": null,
+   "entry": null,
+   "stop": null,
+   "target": null
+  },
+  {
+   "ticker": "BKNG",
+   "kind": "long-term",
+   "price": null,
+   "score": 63.1,
+   "setup": null,
+   "entry": null,
+   "stop": null,
+   "target": null
+  }
+ ]
+}
