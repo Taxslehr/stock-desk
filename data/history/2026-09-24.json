@@ -1,0 +1,111 @@
+{
+ "as_of": "2026-09-24",
+ "market": {
+  "regime": "mixed",
+  "spy_price": 767.18,
+  "spy_chg_1d": -0.0008,
+  "vix": 15.15
+ },
+ "picks": [
+  {
+   "ticker": "MU",
+   "kind": "long-term",
+   "price": 1080.53,
+   "score": 89.5,
+   "setup": null,
+   "entry": null,
+   "stop": null,
+   "target": null
+  },
+  {
+   "ticker": "SNDK",
+   "kind": "long-term",
+   "price": 1753.62,
+   "score": 85.7,
+   "setup": null,
+   "entry": null,
+   "stop": null,
+   "target": null
+  },
+  {
+   "ticker": "EXPE",
+   "kind": "long-term",
+   "price": 261.75,
+   "score": 72.4,
+   "setup": null,
+   "entry": null,
+   "stop": null,
+   "target": null
+  },
+  {
+   "ticker": "FANG",
+   "kind": "long-term",
+   "price": 189.01,
+   "score": 71.3,
+   "setup": null,
+   "entry": null,
+   "stop": null,
+   "target": null
+  },
+  {
+   "ticker": "ABBV",
+   "kind": "long-term",
+   "price": 265.12,
+   "score": 70.5,
+   "setup": null,
+   "entry": null,
+   "stop": null,
+   "target": null
+  },
+  {
+   "ticker": "EOG",
+   "kind": "long-term",
+   "price": 142.86,
+   "score": 70.3,
+   "setup": null,
+   "entry": null,
+   "stop": null,
+   "target": null
+  },
+  {
+   "ticker": "NEM",
+   "kind": "long-term",
+   "price": 121.3,
+   "score": 69.2,
+   "setup": null,
+   "entry": null,
+   "stop": null,
+   "target": null
+  },
+  {
+   "ticker": "BKNG",
+   "kind": "long-term",
+   "price": 157.41,
+   "score": 69.1,
+   "setup": null,
+   "entry": null,
+   "stop": null,
+   "target": null
+  },
+  {
+   "ticker": "GPN",
+   "kind": "short-term",
+   "price": 85.31,
+   "score": 66.2,
+   "setup": "pullback",
+   "entry": 85.31,
+   "stop": 81.34,
+   "target": 94.91
+  },
+  {
+   "ticker": "P",
+   "kind": "short-term",
+   "price": 121.88,
+   "score": 55.9,
+   "setup": "breakout",
+   "entry": 121.88,
+   "stop": 110.39,
+   "target": 144.86
+  }
+ ]
+}
