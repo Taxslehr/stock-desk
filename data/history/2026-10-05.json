@@ -1,0 +1,111 @@
+{
+ "as_of": "2026-10-05",
+ "market": {
+  "regime": "mixed",
+  "spy_price": 774.83,
+  "spy_chg_1d": 0.0067,
+  "vix": 15.3
+ },
+ "picks": [
+  {
+   "ticker": "MU",
+   "kind": "long-term",
+   "price": 1063.96,
+   "score": 92.3,
+   "setup": null,
+   "entry": null,
+   "stop": null,
+   "target": null
+  },
+  {
+   "ticker": "SNDK",
+   "kind": "long-term",
+   "price": 1704.16,
+   "score": 86.9,
+   "setup": null,
+   "entry": null,
+   "stop": null,
+   "target": null
+  },
+  {
+   "ticker": "EXPE",
+   "kind": "long-term",
+   "price": 260.17,
+   "score": 72.0,
+   "setup": null,
+   "entry": null,
+   "stop": null,
+   "target": null
+  },
+  {
+   "ticker": "FANG",
+   "kind": "long-term",
+   "price": 184.08,
+   "score": 71.6,
+   "setup": null,
+   "entry": null,
+   "stop": null,
+   "target": null
+  },
+  {
+   "ticker": "EOG",
+   "kind": "long-term",
+   "price": 144.08,
+   "score": 71.3,
+   "setup": null,
+   "entry": null,
+   "stop": null,
+   "target": null
+  },
+  {
+   "ticker": "COF",
+   "kind": "long-term",
+   "price": 195.14,
+   "score": 71.0,
+   "setup": null,
+   "entry": null,
+   "stop": null,
+   "target": null
+  },
+  {
+   "ticker": "ABBV",
+   "kind": "long-term",
+   "price": 265.76,
+   "score": 70.0,
+   "setup": null,
+   "entry": null,
+   "stop": null,
+   "target": null
+  },
+  {
+   "ticker": "CVS",
+   "kind": "long-term",
+   "price": 87.01,
+   "score": 68.8,
+   "setup": null,
+   "entry": null,
+   "stop": null,
+   "target": null
+  },
+  {
+   "ticker": "CRM",
+   "kind": "short-term",
+   "price": 229.79,
+   "score": 70.8,
+   "setup": "pullback",
+   "entry": 229.79,
+   "stop": 217.97,
+   "target": 263.14
+  },
+  {
+   "ticker": "NEM",
+   "kind": "short-term",
+   "price": 115.82,
+   "score": 68.1,
+   "setup": "pullback",
+   "entry": 115.82,
+   "stop": 110.21,
+   "target": 130.48
+  }
+ ]
+}
