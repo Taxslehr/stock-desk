@@ -1,0 +1,111 @@
+{
+ "as_of": "2026-10-22",
+ "market": {
+  "regime": "bull",
+  "spy_price": 764.18,
+  "spy_chg_1d": -0.0115,
+  "vix": 18.82
+ },
+ "picks": [
+  {
+   "ticker": "MU",
+   "kind": "long-term",
+   "price": 869.99,
+   "score": 93.1,
+   "setup": null,
+   "entry": null,
+   "stop": null,
+   "target": null
+  },
+  {
+   "ticker": "SNDK",
+   "kind": "long-term",
+   "price": 1277.4,
+   "score": 88.0,
+   "setup": null,
+   "entry": null,
+   "stop": null,
+   "target": null
+  },
+  {
+   "ticker": "EOG",
+   "kind": "long-term",
+   "price": 156.04,
+   "score": 73.0,
+   "setup": null,
+   "entry": null,
+   "stop": null,
+   "target": null
+  },
+  {
+   "ticker": "OXY",
+   "kind": "long-term",
+   "price": 61.78,
+   "score": 72.0,
+   "setup": null,
+   "entry": null,
+   "stop": null,
+   "target": null
+  },
+  {
+   "ticker": "EXPE",
+   "kind": "long-term",
+   "price": 295.27,
+   "score": 71.0,
+   "setup": null,
+   "entry": null,
+   "stop": null,
+   "target": null
+  },
+  {
+   "ticker": "ABBV",
+   "kind": "long-term",
+   "price": 283.6,
+   "score": 70.7,
+   "setup": null,
+   "entry": null,
+   "stop": null,
+   "target": null
+  },
+  {
+   "ticker": "BKNG",
+   "kind": "long-term",
+   "price": 163.25,
+   "score": 69.2,
+   "setup": null,
+   "entry": null,
+   "stop": null,
+   "target": null
+  },
+  {
+   "ticker": "CF",
+   "kind": "long-term",
+   "price": 117.53,
+   "score": 67.7,
+   "setup": null,
+   "entry": null,
+   "stop": null,
+   "target": null
+  },
+  {
+   "ticker": "CRWD",
+   "kind": "short-term",
+   "price": 239.18,
+   "score": 55.1,
+   "setup": "pullback",
+   "entry": 239.18,
+   "stop": 220.64,
+   "target": 286.99
+  },
+  {
+   "ticker": "NTAP",
+   "kind": "short-term",
+   "price": 209.21,
+   "score": 61.4,
+   "setup": "pullback",
+   "entry": 209.21,
+   "stop": 195.06,
+   "target": 240.87
+  }
+ ]
+}
