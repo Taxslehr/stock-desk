@@ -1,0 +1,111 @@
+{
+ "as_of": "2026-10-26",
+ "market": {
+  "regime": "bull",
+  "spy_price": 766.27,
+  "spy_chg_1d": 0.0083,
+  "vix": 18.29
+ },
+ "picks": [
+  {
+   "ticker": "SNDK",
+   "kind": "long-term",
+   "price": 1273.5,
+   "score": 87.7,
+   "setup": null,
+   "entry": null,
+   "stop": null,
+   "target": null
+  },
+  {
+   "ticker": "NVDA",
+   "kind": "long-term",
+   "price": 216.4,
+   "score": 79.5,
+   "setup": null,
+   "entry": null,
+   "stop": null,
+   "target": null
+  },
+  {
+   "ticker": "FANG",
+   "kind": "long-term",
+   "price": 207.48,
+   "score": 72.0,
+   "setup": null,
+   "entry": null,
+   "stop": null,
+   "target": null
+  },
+  {
+   "ticker": "OXY",
+   "kind": "long-term",
+   "price": 64.29,
+   "score": 72.0,
+   "setup": null,
+   "entry": null,
+   "stop": null,
+   "target": null
+  },
+  {
+   "ticker": "EXPE",
+   "kind": "long-term",
+   "price": 280.17,
+   "score": 71.5,
+   "setup": null,
+   "entry": null,
+   "stop": null,
+   "target": null
+  },
+  {
+   "ticker": "ABBV",
+   "kind": "long-term",
+   "price": 286.28,
+   "score": 70.6,
+   "setup": null,
+   "entry": null,
+   "stop": null,
+   "target": null
+  },
+  {
+   "ticker": "CVS",
+   "kind": "long-term",
+   "price": 92.56,
+   "score": 67.8,
+   "setup": null,
+   "entry": null,
+   "stop": null,
+   "target": null
+  },
+  {
+   "ticker": "DAL",
+   "kind": "long-term",
+   "price": 78.66,
+   "score": 67.8,
+   "setup": null,
+   "entry": null,
+   "stop": null,
+   "target": null
+  },
+  {
+   "ticker": "HPE",
+   "kind": "short-term",
+   "price": 59.03,
+   "score": 75.1,
+   "setup": "pullback",
+   "entry": 59.03,
+   "stop": 53.41,
+   "target": 73.56
+  },
+  {
+   "ticker": "MU",
+   "kind": "short-term",
+   "price": 914.14,
+   "score": 93.1,
+   "setup": "pullback",
+   "entry": 914.14,
+   "stop": 837.71,
+   "target": 1107.83
+  }
+ ]
+}
