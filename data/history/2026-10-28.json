@@ -1,0 +1,111 @@
+{
+ "as_of": "2026-10-28",
+ "market": {
+  "regime": "bull",
+  "spy_price": 771.31,
+  "spy_chg_1d": 0.0021,
+  "vix": 17.34
+ },
+ "picks": [
+  {
+   "ticker": "MU",
+   "kind": "long-term",
+   "price": 969.15,
+   "score": 92.9,
+   "setup": null,
+   "entry": null,
+   "stop": null,
+   "target": null
+  },
+  {
+   "ticker": "SNDK",
+   "kind": "long-term",
+   "price": 1386.03,
+   "score": 89.3,
+   "setup": null,
+   "entry": null,
+   "stop": null,
+   "target": null
+  },
+  {
+   "ticker": "EOG",
+   "kind": "long-term",
+   "price": 161.7,
+   "score": 72.4,
+   "setup": null,
+   "entry": null,
+   "stop": null,
+   "target": null
+  },
+  {
+   "ticker": "OXY",
+   "kind": "long-term",
+   "price": 63.37,
+   "score": 71.7,
+   "setup": null,
+   "entry": null,
+   "stop": null,
+   "target": null
+  },
+  {
+   "ticker": "EXPE",
+   "kind": "long-term",
+   "price": 275.93,
+   "score": 71.3,
+   "setup": null,
+   "entry": null,
+   "stop": null,
+   "target": null
+  },
+  {
+   "ticker": "ABBV",
+   "kind": "long-term",
+   "price": 287.44,
+   "score": 70.3,
+   "setup": null,
+   "entry": null,
+   "stop": null,
+   "target": null
+  },
+  {
+   "ticker": "DAL",
+   "kind": "long-term",
+   "price": 81.08,
+   "score": 68.5,
+   "setup": null,
+   "entry": null,
+   "stop": null,
+   "target": null
+  },
+  {
+   "ticker": "CF",
+   "kind": "long-term",
+   "price": 120.0,
+   "score": 67.2,
+   "setup": null,
+   "entry": null,
+   "stop": null,
+   "target": null
+  },
+  {
+   "ticker": "NEM",
+   "kind": "short-term",
+   "price": 112.43,
+   "score": 69.1,
+   "setup": "pullback",
+   "entry": 112.43,
+   "stop": 106.84,
+   "target": 123.61
+  },
+  {
+   "ticker": "NVDA",
+   "kind": "short-term",
+   "price": 217.31,
+   "score": 79.9,
+   "setup": "pullback",
+   "entry": 217.31,
+   "stop": 208.47,
+   "target": 243.37
+  }
+ ]
+}
