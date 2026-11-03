@@ -1,0 +1,111 @@
+{
+ "as_of": "2026-11-03",
+ "market": {
+  "regime": "bull",
+  "spy_price": 756.24,
+  "spy_chg_1d": 0.0055,
+  "vix": 20.45
+ },
+ "picks": [
+  {
+   "ticker": "MU",
+   "kind": "long-term",
+   "price": 851.0,
+   "score": 92.0,
+   "setup": null,
+   "entry": null,
+   "stop": null,
+   "target": null
+  },
+  {
+   "ticker": "NVDA",
+   "kind": "long-term",
+   "price": 208.01,
+   "score": 78.2,
+   "setup": null,
+   "entry": null,
+   "stop": null,
+   "target": null
+  },
+  {
+   "ticker": "ABBV",
+   "kind": "long-term",
+   "price": 288.36,
+   "score": 76.5,
+   "setup": null,
+   "entry": null,
+   "stop": null,
+   "target": null
+  },
+  {
+   "ticker": "OXY",
+   "kind": "long-term",
+   "price": 60.69,
+   "score": 72.0,
+   "setup": null,
+   "entry": null,
+   "stop": null,
+   "target": null
+  },
+  {
+   "ticker": "EOG",
+   "kind": "long-term",
+   "price": 156.29,
+   "score": 71.8,
+   "setup": null,
+   "entry": null,
+   "stop": null,
+   "target": null
+  },
+  {
+   "ticker": "EXPE",
+   "kind": "long-term",
+   "price": 285.5,
+   "score": 71.4,
+   "setup": null,
+   "entry": null,
+   "stop": null,
+   "target": null
+  },
+  {
+   "ticker": "NEM",
+   "kind": "long-term",
+   "price": 107.74,
+   "score": 68.8,
+   "setup": null,
+   "entry": null,
+   "stop": null,
+   "target": null
+  },
+  {
+   "ticker": "DAL",
+   "kind": "long-term",
+   "price": 83.29,
+   "score": 67.8,
+   "setup": null,
+   "entry": null,
+   "stop": null,
+   "target": null
+  },
+  {
+   "ticker": "VLO",
+   "kind": "short-term",
+   "price": 391.14,
+   "score": 74.8,
+   "setup": "pullback",
+   "entry": 391.14,
+   "stop": 362.79,
+   "target": 461.52
+  },
+  {
+   "ticker": "CRM",
+   "kind": "short-term",
+   "price": 222.84,
+   "score": 69.7,
+   "setup": "pullback",
+   "entry": 222.84,
+   "stop": 208.69,
+   "target": 252.42
+  }
+ ]
+}
