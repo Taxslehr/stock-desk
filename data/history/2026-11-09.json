@@ -1,0 +1,111 @@
+{
+ "as_of": "2026-11-09",
+ "market": {
+  "regime": "bull",
+  "spy_price": 752.69,
+  "spy_chg_1d": 0.0237,
+  "vix": 19.93
+ },
+ "picks": [
+  {
+   "ticker": "VLO",
+   "kind": "long-term",
+   "price": 356.75,
+   "score": 76.3,
+   "setup": null,
+   "entry": null,
+   "stop": null,
+   "target": null
+  },
+  {
+   "ticker": "HPE",
+   "kind": "long-term",
+   "price": 47.54,
+   "score": 76.2,
+   "setup": null,
+   "entry": null,
+   "stop": null,
+   "target": null
+  },
+  {
+   "ticker": "NVDA",
+   "kind": "long-term",
+   "price": 178.67,
+   "score": 75.7,
+   "setup": null,
+   "entry": null,
+   "stop": null,
+   "target": null
+  },
+  {
+   "ticker": "MPC",
+   "kind": "long-term",
+   "price": 389.88,
+   "score": 74.4,
+   "setup": null,
+   "entry": null,
+   "stop": null,
+   "target": null
+  },
+  {
+   "ticker": "ABBV",
+   "kind": "long-term",
+   "price": 293.3,
+   "score": 72.0,
+   "setup": null,
+   "entry": null,
+   "stop": null,
+   "target": null
+  },
+  {
+   "ticker": "REGN",
+   "kind": "long-term",
+   "price": 919.96,
+   "score": 70.6,
+   "setup": null,
+   "entry": null,
+   "stop": null,
+   "target": null
+  },
+  {
+   "ticker": "EXPE",
+   "kind": "long-term",
+   "price": 259.16,
+   "score": 69.3,
+   "setup": null,
+   "entry": null,
+   "stop": null,
+   "target": null
+  },
+  {
+   "ticker": "NEM",
+   "kind": "long-term",
+   "price": 125.16,
+   "score": 68.1,
+   "setup": null,
+   "entry": null,
+   "stop": null,
+   "target": null
+  },
+  {
+   "ticker": "ALGN",
+   "kind": "short-term",
+   "price": 174.26,
+   "score": 53.7,
+   "setup": "breakout",
+   "entry": 174.26,
+   "stop": 161.74,
+   "target": 199.3
+  },
+  {
+   "ticker": "CVX",
+   "kind": "short-term",
+   "price": 210.78,
+   "score": 67.5,
+   "setup": "pullback",
+   "entry": 210.78,
+   "stop": 202.37,
+   "target": 236.48
+  }
+ ]
+}
