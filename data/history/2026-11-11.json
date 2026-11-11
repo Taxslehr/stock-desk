@@ -1,0 +1,111 @@
+{
+ "as_of": "2026-11-11",
+ "market": {
+  "regime": "bull",
+  "spy_price": 762.3,
+  "spy_chg_1d": 0.0165,
+  "vix": 17.38
+ },
+ "picks": [
+  {
+   "ticker": "MU",
+   "kind": "long-term",
+   "price": 826.35,
+   "score": 89.1,
+   "setup": null,
+   "entry": null,
+   "stop": null,
+   "target": null
+  },
+  {
+   "ticker": "NVDA",
+   "kind": "long-term",
+   "price": 177.24,
+   "score": 75.8,
+   "setup": null,
+   "entry": null,
+   "stop": null,
+   "target": null
+  },
+  {
+   "ticker": "VLO",
+   "kind": "long-term",
+   "price": 359.18,
+   "score": 74.9,
+   "setup": null,
+   "entry": null,
+   "stop": null,
+   "target": null
+  },
+  {
+   "ticker": "APA",
+   "kind": "long-term",
+   "price": 46.37,
+   "score": 73.9,
+   "setup": null,
+   "entry": null,
+   "stop": null,
+   "target": null
+  },
+  {
+   "ticker": "ABBV",
+   "kind": "long-term",
+   "price": 292.72,
+   "score": 71.5,
+   "setup": null,
+   "entry": null,
+   "stop": null,
+   "target": null
+  },
+  {
+   "ticker": "REGN",
+   "kind": "long-term",
+   "price": 942.74,
+   "score": 69.4,
+   "setup": null,
+   "entry": null,
+   "stop": null,
+   "target": null
+  },
+  {
+   "ticker": "GPN",
+   "kind": "long-term",
+   "price": 100.75,
+   "score": 67.5,
+   "setup": null,
+   "entry": null,
+   "stop": null,
+   "target": null
+  },
+  {
+   "ticker": "DAL",
+   "kind": "long-term",
+   "price": 91.92,
+   "score": 67.3,
+   "setup": null,
+   "entry": null,
+   "stop": null,
+   "target": null
+  },
+  {
+   "ticker": "CRM",
+   "kind": "short-term",
+   "price": 217.25,
+   "score": 70.3,
+   "setup": "pullback",
+   "entry": 217.25,
+   "stop": 204.24,
+   "target": 252.42
+  },
+  {
+   "ticker": "PSX",
+   "kind": "short-term",
+   "price": 255.5,
+   "score": 70.1,
+   "setup": "pullback",
+   "entry": 255.5,
+   "stop": 238.58,
+   "target": 299.39
+  }
+ ]
+}
