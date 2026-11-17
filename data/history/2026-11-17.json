@@ -1,0 +1,111 @@
+{
+ "as_of": "2026-11-17",
+ "market": {
+  "regime": "bull",
+  "spy_price": 729.83,
+  "spy_chg_1d": -0.0137,
+  "vix": 26.04
+ },
+ "picks": [
+  {
+   "ticker": "HPE",
+   "kind": "long-term",
+   "price": 45.15,
+   "score": 74.5,
+   "setup": null,
+   "entry": null,
+   "stop": null,
+   "target": null
+  },
+  {
+   "ticker": "APA",
+   "kind": "long-term",
+   "price": 46.88,
+   "score": 73.0,
+   "setup": null,
+   "entry": null,
+   "stop": null,
+   "target": null
+  },
+  {
+   "ticker": "VLO",
+   "kind": "long-term",
+   "price": 362.55,
+   "score": 72.9,
+   "setup": null,
+   "entry": null,
+   "stop": null,
+   "target": null
+  },
+  {
+   "ticker": "ABBV",
+   "kind": "long-term",
+   "price": 292.24,
+   "score": 71.0,
+   "setup": null,
+   "entry": null,
+   "stop": null,
+   "target": null
+  },
+  {
+   "ticker": "AMD",
+   "kind": "long-term",
+   "price": 489.5,
+   "score": 68.9,
+   "setup": null,
+   "entry": null,
+   "stop": null,
+   "target": null
+  },
+  {
+   "ticker": "REGN",
+   "kind": "long-term",
+   "price": 954.64,
+   "score": 68.8,
+   "setup": null,
+   "entry": null,
+   "stop": null,
+   "target": null
+  },
+  {
+   "ticker": "NEM",
+   "kind": "long-term",
+   "price": 110.44,
+   "score": 68.7,
+   "setup": null,
+   "entry": null,
+   "stop": null,
+   "target": null
+  },
+  {
+   "ticker": "GPN",
+   "kind": "long-term",
+   "price": 86.57,
+   "score": 68.6,
+   "setup": null,
+   "entry": null,
+   "stop": null,
+   "target": null
+  },
+  {
+   "ticker": "RVTY",
+   "kind": "short-term",
+   "price": 148.01,
+   "score": 56.3,
+   "setup": "pullback",
+   "entry": 148.01,
+   "stop": 135.3,
+   "target": 173.43
+  },
+  {
+   "ticker": "VEEV",
+   "kind": "short-term",
+   "price": 291.69,
+   "score": 61.8,
+   "setup": "pullback",
+   "entry": 291.69,
+   "stop": 278.94,
+   "target": 325.99
+  }
+ ]
+}
