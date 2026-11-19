@@ -1,0 +1,111 @@
+{
+ "as_of": "2026-11-19",
+ "market": {
+  "regime": "mixed",
+  "spy_price": 720.62,
+  "spy_chg_1d": -0.0131,
+  "vix": 27.79
+ },
+ "picks": [
+  {
+   "ticker": "HPE",
+   "kind": "long-term",
+   "price": 46.17,
+   "score": 74.8,
+   "setup": null,
+   "entry": null,
+   "stop": null,
+   "target": null
+  },
+  {
+   "ticker": "APA",
+   "kind": "long-term",
+   "price": 44.68,
+   "score": 74.2,
+   "setup": null,
+   "entry": null,
+   "stop": null,
+   "target": null
+  },
+  {
+   "ticker": "VLO",
+   "kind": "long-term",
+   "price": 341.12,
+   "score": 73.9,
+   "setup": null,
+   "entry": null,
+   "stop": null,
+   "target": null
+  },
+  {
+   "ticker": "ABBV",
+   "kind": "long-term",
+   "price": 283.58,
+   "score": 71.5,
+   "setup": null,
+   "entry": null,
+   "stop": null,
+   "target": null
+  },
+  {
+   "ticker": "ADI",
+   "kind": "long-term",
+   "price": 383.33,
+   "score": 69.0,
+   "setup": null,
+   "entry": null,
+   "stop": null,
+   "target": null
+  },
+  {
+   "ticker": "REGN",
+   "kind": "long-term",
+   "price": 931.84,
+   "score": 68.5,
+   "setup": null,
+   "entry": null,
+   "stop": null,
+   "target": null
+  },
+  {
+   "ticker": "GPN",
+   "kind": "long-term",
+   "price": 83.83,
+   "score": 68.1,
+   "setup": null,
+   "entry": null,
+   "stop": null,
+   "target": null
+  },
+  {
+   "ticker": "CPAY",
+   "kind": "long-term",
+   "price": 438.27,
+   "score": 67.3,
+   "setup": null,
+   "entry": null,
+   "stop": null,
+   "target": null
+  },
+  {
+   "ticker": "PSX",
+   "kind": "short-term",
+   "price": 244.27,
+   "score": 70.3,
+   "setup": "pullback",
+   "entry": 244.27,
+   "stop": 228.77,
+   "target": 293.0
+  },
+  {
+   "ticker": "SWKS",
+   "kind": "short-term",
+   "price": 79.84,
+   "score": 47.2,
+   "setup": "pullback",
+   "entry": 79.84,
+   "stop": 72.49,
+   "target": 94.54
+  }
+ ]
+}
