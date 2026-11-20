@@ -1,0 +1,111 @@
+{
+ "as_of": "2026-11-20",
+ "market": {
+  "regime": "mixed",
+  "spy_price": 700.82,
+  "spy_chg_1d": -0.021,
+  "vix": 31.66
+ },
+ "picks": [
+  {
+   "ticker": "APA",
+   "kind": "long-term",
+   "price": 45.31,
+   "score": 74.3,
+   "setup": null,
+   "entry": null,
+   "stop": null,
+   "target": null
+  },
+  {
+   "ticker": "VLO",
+   "kind": "long-term",
+   "price": 340.37,
+   "score": 73.7,
+   "setup": null,
+   "entry": null,
+   "stop": null,
+   "target": null
+  },
+  {
+   "ticker": "ABBV",
+   "kind": "long-term",
+   "price": 288.47,
+   "score": 70.5,
+   "setup": null,
+   "entry": null,
+   "stop": null,
+   "target": null
+  },
+  {
+   "ticker": "REGN",
+   "kind": "long-term",
+   "price": 923.13,
+   "score": 69.2,
+   "setup": null,
+   "entry": null,
+   "stop": null,
+   "target": null
+  },
+  {
+   "ticker": "CRM",
+   "kind": "long-term",
+   "price": 184.73,
+   "score": 68.6,
+   "setup": null,
+   "entry": null,
+   "stop": null,
+   "target": null
+  },
+  {
+   "ticker": "GPN",
+   "kind": "long-term",
+   "price": 93.41,
+   "score": 68.6,
+   "setup": null,
+   "entry": null,
+   "stop": null,
+   "target": null
+  },
+  {
+   "ticker": "ZBRA",
+   "kind": "long-term",
+   "price": 302.76,
+   "score": 68.1,
+   "setup": null,
+   "entry": null,
+   "stop": null,
+   "target": null
+  },
+  {
+   "ticker": "CPAY",
+   "kind": "long-term",
+   "price": 437.01,
+   "score": 67.3,
+   "setup": null,
+   "entry": null,
+   "stop": null,
+   "target": null
+  },
+  {
+   "ticker": "RVTY",
+   "kind": "short-term",
+   "price": 146.34,
+   "score": 55.8,
+   "setup": "pullback",
+   "entry": 146.34,
+   "stop": 134.13,
+   "target": 171.74
+  },
+  {
+   "ticker": "CRWD",
+   "kind": "short-term",
+   "price": 231.6,
+   "score": 55.2,
+   "setup": "pullback",
+   "entry": 231.6,
+   "stop": 208.74,
+   "target": 277.32
+  }
+ ]
+}
