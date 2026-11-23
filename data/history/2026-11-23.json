@@ -1,0 +1,111 @@
+{
+ "as_of": "2026-11-23",
+ "market": {
+  "regime": "mixed",
+  "spy_price": 722.29,
+  "spy_chg_1d": 0.0471,
+  "vix": 26.62
+ },
+ "picks": [
+  {
+   "ticker": "NVDA",
+   "kind": "long-term",
+   "price": 165.05,
+   "score": 76.3,
+   "setup": null,
+   "entry": null,
+   "stop": null,
+   "target": null
+  },
+  {
+   "ticker": "HPE",
+   "kind": "long-term",
+   "price": 48.02,
+   "score": 74.7,
+   "setup": null,
+   "entry": null,
+   "stop": null,
+   "target": null
+  },
+  {
+   "ticker": "VLO",
+   "kind": "long-term",
+   "price": 329.4,
+   "score": 73.7,
+   "setup": null,
+   "entry": null,
+   "stop": null,
+   "target": null
+  },
+  {
+   "ticker": "MPC",
+   "kind": "long-term",
+   "price": 357.69,
+   "score": 71.8,
+   "setup": null,
+   "entry": null,
+   "stop": null,
+   "target": null
+  },
+  {
+   "ticker": "ABBV",
+   "kind": "long-term",
+   "price": 288.45,
+   "score": 71.0,
+   "setup": null,
+   "entry": null,
+   "stop": null,
+   "target": null
+  },
+  {
+   "ticker": "REGN",
+   "kind": "long-term",
+   "price": 942.24,
+   "score": 68.6,
+   "setup": null,
+   "entry": null,
+   "stop": null,
+   "target": null
+  },
+  {
+   "ticker": "GPN",
+   "kind": "long-term",
+   "price": 91.47,
+   "score": 68.4,
+   "setup": null,
+   "entry": null,
+   "stop": null,
+   "target": null
+  },
+  {
+   "ticker": "CPAY",
+   "kind": "long-term",
+   "price": 439.61,
+   "score": 67.3,
+   "setup": null,
+   "entry": null,
+   "stop": null,
+   "target": null
+  },
+  {
+   "ticker": "PSX",
+   "kind": "short-term",
+   "price": 237.22,
+   "score": 70.2,
+   "setup": "pullback",
+   "entry": 237.22,
+   "stop": 221.88,
+   "target": 293.0
+  },
+  {
+   "ticker": "APA",
+   "kind": "short-term",
+   "price": 44.06,
+   "score": 74.5,
+   "setup": "pullback",
+   "entry": 44.06,
+   "stop": 41.08,
+   "target": 52.96
+  }
+ ]
+}
