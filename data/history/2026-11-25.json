@@ -1,0 +1,111 @@
+{
+ "as_of": "2026-11-25",
+ "market": {
+  "regime": "mixed",
+  "spy_price": 715.64,
+  "spy_chg_1d": -0.0044,
+  "vix": 28.02
+ },
+ "picks": [
+  {
+   "ticker": "APA",
+   "kind": "long-term",
+   "price": 45.47,
+   "score": 74.5,
+   "setup": null,
+   "entry": null,
+   "stop": null,
+   "target": null
+  },
+  {
+   "ticker": "VLO",
+   "kind": "long-term",
+   "price": 323.57,
+   "score": 72.5,
+   "setup": null,
+   "entry": null,
+   "stop": null,
+   "target": null
+  },
+  {
+   "ticker": "NEM",
+   "kind": "long-term",
+   "price": 101.71,
+   "score": 70.9,
+   "setup": null,
+   "entry": null,
+   "stop": null,
+   "target": null
+  },
+  {
+   "ticker": "ABBV",
+   "kind": "long-term",
+   "price": 293.98,
+   "score": 70.9,
+   "setup": null,
+   "entry": null,
+   "stop": null,
+   "target": null
+  },
+  {
+   "ticker": "CRM",
+   "kind": "long-term",
+   "price": 197.04,
+   "score": 69.1,
+   "setup": null,
+   "entry": null,
+   "stop": null,
+   "target": null
+  },
+  {
+   "ticker": "ADI",
+   "kind": "long-term",
+   "price": 326.5,
+   "score": 68.8,
+   "setup": null,
+   "entry": null,
+   "stop": null,
+   "target": null
+  },
+  {
+   "ticker": "GPN",
+   "kind": "long-term",
+   "price": 96.6,
+   "score": 68.0,
+   "setup": null,
+   "entry": null,
+   "stop": null,
+   "target": null
+  },
+  {
+   "ticker": "REGN",
+   "kind": "long-term",
+   "price": 977.02,
+   "score": 67.4,
+   "setup": null,
+   "entry": null,
+   "stop": null,
+   "target": null
+  },
+  {
+   "ticker": "HAS",
+   "kind": "short-term",
+   "price": 110.5,
+   "score": 63.5,
+   "setup": "pullback",
+   "entry": 110.5,
+   "stop": 105.8,
+   "target": 123.88
+  },
+  {
+   "ticker": "WST",
+   "kind": "short-term",
+   "price": 373.97,
+   "score": 53.5,
+   "setup": "pullback",
+   "entry": 373.97,
+   "stop": 356.27,
+   "target": 437.99
+  }
+ ]
+}
